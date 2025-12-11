@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/nikhiljainnnn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/nikhiljainnnn/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
