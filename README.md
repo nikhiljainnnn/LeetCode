@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/nikhiljainnnn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/nikhiljainnnn/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Database
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhiljainnnn/LeetCode/tree/master/0066-plus-one) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/nikhiljainnnn/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/nikhiljainnnn/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/nikhiljainnnn/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
